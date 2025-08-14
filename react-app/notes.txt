@@ -1,0 +1,5 @@
+There are 2 ways to create a React
+1. Create React APP (CRA)
+2. Vite (getting popular, and is much faster)
+
+In a sense, react.js is like a virtual DOM where App acts like a div and other components acts like h1,h2,h3
